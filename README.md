@@ -41,7 +41,7 @@ print("Total Words:",len(per_word))
 
 ### Text file:
 
-![output](./wcop2.png)
+![output](./wordcop.png)
 
 
 ## RESULT:
